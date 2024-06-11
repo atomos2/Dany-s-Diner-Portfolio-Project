@@ -1,5 +1,5 @@
-CREATE SCHEMA dannys_diner;
-Use dannys_diner;
+CREATE SCHEMA danys_diner;
+Use danys_diner;
 
 CREATE TABLE sales (
   customer_id VARCHAR(1),
